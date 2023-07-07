@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactport/static/css/main.58265a54.css",
+    "main.js": "/reactport/static/js/main.4666fc57.js",
+    "static/media/IMG_1159.png": "/reactport/static/media/IMG_1159.48f465098ddb9ebada94.png",
+    "static/media/selfie.png": "/reactport/static/media/selfie.ae5327021eb0c8d7c9d1.png",
+    "static/media/IMG_0834.png": "/reactport/static/media/IMG_0834.36dca9677f297ac5309d.png",
+    "static/media/IMG_0821.png": "/reactport/static/media/IMG_0821.c94e662bf6c335db1829.png",
+    "static/media/vibetribe.png": "/reactport/static/media/vibetribe.5789255bc7d9fcfe9675.png",
+    "static/media/IMG_1084.png": "/reactport/static/media/IMG_1084.fca3a2545ec7a3d3a02c.png",
+    "static/media/image_720.png": "/reactport/static/media/image_720.fbb7637191cc9c3c56e9.png",
+    "static/media/pngwing.com.png": "/reactport/static/media/pngwing.com.978ea28b84392bf1fded.png",
+    "index.html": "/reactport/index.html",
+    "main.58265a54.css.map": "/reactport/static/css/main.58265a54.css.map",
+    "main.4666fc57.js.map": "/reactport/static/js/main.4666fc57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58265a54.css",
+    "static/js/main.4666fc57.js"
+  ]
+}
