@@ -35,6 +35,7 @@ const App = () => {
       </div>
       <Routes>
         <Route path="/reactport" element={<Home />} />
+        <Route path='/' element={<Home />} />
         <Route path="/pets" element={<Pets />} />
         <Route path="/resume" element={<Resume/>} />        
         <Route path="/contact" element={<Contact />} />
