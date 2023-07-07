@@ -17,7 +17,7 @@ const App = () => {
         <nav className="menu" style={{ float: 'right' }}>
           <ul>
             <li className="firstli">
-              <Link to="/">Home</Link>
+              <Link to="/reactport">Home</Link>
             </li>
             <li className="li-border">
               <Link to="/pets">
