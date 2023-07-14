@@ -8,6 +8,7 @@ import dadJokesimg from "../assets/images/image_720.png";
 import vibeTribeimg from "../assets/images/vibetribe.png";
 import selfie from '../assets/images/selfie.png';
 import reactimg from '../assets/images/pngwing.com.png';
+import oddJobs from '../assets/images/oddjobs.png'
 
 const Home = () => {
   return (
@@ -66,8 +67,19 @@ const Home = () => {
           <Card className="title">
             <strong> VibeTribe</strong>
             <br />
-            <Link to="https://cryptic-basin-19014.herokuapp.com" target="_blank">
+            <Link to="https://odd-jobs-f138ae74eee7.herokuapp.com" target="_blank">
               <img src={vibeTribeimg} alt="VIBETRIBE" />
+            </Link>
+          </Card>
+        </Col>
+      </Row>
+      <Row>
+        <Col xs={12} md={6}>
+          <Card className="title">
+            <strong> Mern baby Mern</strong>
+            <br />
+            <Link to="https://odd-jobs-f138ae74eee7.herokuapp.com" target="_blank">
+              <img src={oddJobs} alt="OddJobs" />
             </Link>
           </Card>
         </Col>
